@@ -1,0 +1,24 @@
+{
+  "name": "static-si",
+  "version": "1.0.0",
+  "description": "Static blog for Si Jobling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/si/static.git"
+  },
+  "keywords": [
+    "blog",
+    "si",
+    "jobling"
+  ],
+  "author": "Si Jobling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/si/static/issues"
+  },
+  "homepage": "https://github.com/si/static#readme"
+}
