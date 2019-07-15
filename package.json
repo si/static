@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/si/static/issues"
   },
-  "homepage": "https://github.com/si/static#readme"
+  "homepage": "https://github.com/si/static#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.8.3"
+  }
 }
